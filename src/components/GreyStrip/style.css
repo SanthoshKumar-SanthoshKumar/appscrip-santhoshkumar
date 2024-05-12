@@ -1,0 +1,36 @@
+.desktop{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    color: red;
+}
+.desktop div{
+    display: flex;
+}
+.desktop div p{
+    margin-left: 10px;
+}
+
+.mobile{
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+
+.mobile div{
+    display: flex;
+    justify-content: center;
+}
+.mobile div p{
+    margin-left: 10px;
+}
+@media screen and (min-width:576px){
+    .mobile{
+        display: none;
+    }
+}
+@media screen and (max-width:578px){
+    .desktop{
+        display: none;
+    }
+}

@@ -1,0 +1,221 @@
+
+
+
+@media screen and (max-width:576px){
+    .desktop-view{
+       display: none;
+    }
+}
+
+
+hr{
+    border: 1px solid #FFFFFF;
+    text-align: center;
+    margin: 10px 20px;
+
+}
+.promotions-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}.metta-muse h1 {
+    font-family: Simplon Norm;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 20px;
+
+}.metta-muse p {
+    font-family: Simplon Norm;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.6px;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.quick-liks h1{
+    font-family: Simplon Norm;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+
+.quick-liks p{
+    font-family: Simplon Norm;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.6px;
+text-align: left;
+padding-bottom: 10px;
+
+}
+
+.scocial-medai-ad h1{
+    font-family: Simplon Norm;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.scocial-medai-ad li{
+    border: 2px solid #fff;
+    border-radius: 50%;
+    padding: 8px;
+    margin: 10px;
+}
+
+.scocial-medai-ad ul {
+    list-style: none;
+    display: flex;
+}
+
+.details-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.updates-recomendation h1{
+    font-family: Simplon Norm;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    padding-bottom: 20px;
+    
+}
+
+.updates-recomendation p{
+    font-family: Simplon Norm;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.2px;
+text-align: left;
+padding-bottom: 20px;
+}
+
+.updates-recomendation input{
+    font-family: Simplon Norm;
+font-size: 18px;
+font-weight: 400;
+line-height: 21.6px;
+text-align: left;
+padding:14px, 24px, 14px, 24px;
+gap:8px;
+
+}
+
+.sub-btn{
+    background: #000000;
+    border: 1.14px solid #FFFFFF;
+    color: #fff;
+    padding: 5px;
+border-radius: 5px;
+border: 1.14px 0px 0px 0px;
+opacity: 0.3px;
+margin-left: 5px;
+
+}
+.contacts{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+.contacts h1{
+    font-family: Simplon Norm;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+
+    padding-bottom: 20px;
+}
+.contact-details{
+    text-align: start;
+    margin-bottom: 10px;
+}
+.currency-details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.currency-details img{
+    border-radius: 50%;
+}
+
+
+
+.mobile-view input{
+    width: 30%;
+    padding: 10px 20px ;
+    gap: 8px;
+    opacity: 0px;
+    border-radius: 5px;
+}
+
+.mobile-view button{
+    width: 20%;
+padding: 5px;
+gap: 0px;
+border-radius: 5px;
+border: 1.14px 0px 0px 0px;
+opacity: 0.3px;
+background-color: #000;
+border:1px solid #fff;
+outline: none;
+color: #fff;
+margin-left: 10px;
+
+}
+
+.mobile-view .contact-details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px auto;
+}
+
+.mobile-view .currency-details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px auto;
+}
+
+.mobile-view .feature-references{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.mobile-view .social-media-links{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+@media screen and (min-width:576px){
+    .mobile-view{
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
