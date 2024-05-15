@@ -1,6 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/10e9f2b6-6b6e-475e-8759-8a6e86331bc5/deploy-status)](https://app.netlify.com/sites/appscrip-santhoshkumar/deploys)
-
-
 
 # Getting Started with Create React App
 
